@@ -1,0 +1,36 @@
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\DnsClient.dll
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Bson.dll
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.dll
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\System.Buffers.dll
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\DnsClient.xml
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Bson.xml
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.xml
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojAssemblyReference.cache
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CopyComplete
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\GÜL\Desktop\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\DnsClient.dll
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Bson.dll
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.dll
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\System.Buffers.dll
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\DnsClient.xml
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Bson.xml
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.xml
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojAssemblyReference.cache
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CopyComplete
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\GÜL\Desktop\stajda yapılanlar\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
